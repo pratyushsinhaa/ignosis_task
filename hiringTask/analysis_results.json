@@ -1,0 +1,42 @@
+{
+    "top_products": {
+        "sales_count": {
+            "4": 3185,
+            "14": 3233,
+            "16": 3197
+        },
+        "total_revenue": {
+            "4": 40352.0,
+            "14": 36367.6,
+            "16": 34804.2
+        },
+        "unique_customers": {
+            "4": 3112,
+            "14": 3149,
+            "16": 3106
+        },
+        "avg_revenue_per_customer": {
+            "4": 12.97,
+            "14": 11.55,
+            "16": 11.21
+        }
+    },
+    "loyal_customer_profile": {
+        "lifestage_distribution": {
+            "OLDER FAMILIES": 36039,
+            "YOUNG FAMILIES": 31280,
+            "OLDER SINGLES/COUPLES": 22824,
+            "RETIREES": 17253,
+            "MIDAGE SINGLES/COUPLES": 10524,
+            "YOUNG SINGLES/COUPLES": 9206,
+            "NEW FAMILIES": 1350
+        },
+        "premium_customer_ratio": {
+            "Budget": 48911,
+            "Mainstream": 45734,
+            "Premium": 33831
+        },
+        "avg_transaction_value": 7.29
+    },
+    "hypothesis": "Loyal customers are likely to be older families and young families who prefer budget and mainstream products. They might be attracted to these products due to their affordability and value for money, which is crucial for families managing household expenses."
+}
